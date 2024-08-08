@@ -2,6 +2,7 @@
   "dependencies": {
     "@types/react-slick": "^0.23.13",
     "client-only": "^0.0.1",
+    "json-server": "^0.17.4",
     "react-slick": "^0.30.2",
     "server-only": "^0.0.1",
     "slick-carousel": "^1.8.1"
